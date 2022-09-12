@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XOR_crypter", "XOR-crypter\XOR_crypter.csproj", "{2A8C8F79-AFE0-4110-B521-9C3FD9E8C01A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A8C8F79-AFE0-4110-B521-9C3FD9E8C01A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8C8F79-AFE0-4110-B521-9C3FD9E8C01A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8C8F79-AFE0-4110-B521-9C3FD9E8C01A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8C8F79-AFE0-4110-B521-9C3FD9E8C01A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE257A88-1E5D-4D13-B0E7-9B850EF1E162}
+	EndGlobalSection
+EndGlobal
